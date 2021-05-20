@@ -1,4 +1,4 @@
-# Microclusters based outlier explanations for data streams
+# Micro-clusters-based Outlier Explanations for Data Streams
 
 ### Package Installation - Development Mode
 
