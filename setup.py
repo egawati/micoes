@@ -17,7 +17,9 @@ LONG_DESC_TYPE = "text/markdown"
 INSTALL_REQUIRES = [
     'numpy',
     'pandas',
-    'sklearn'
+    'sklearn',
+    'river',
+    'scikit-multiflow'
 ]
 
 setup(name=PACKAGE_NAME,
