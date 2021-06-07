@@ -1,12 +1,4 @@
-import os
-import copy
 import numpy as np
-
-from sklearn.cluster import KMeans
-from sklearn import svm
-
-
-from sklearn.pipeline import make_pipeline
 
 from .common import run_svc
 from .common import map_feature_scores

@@ -1,9 +1,4 @@
-import os
-import copy
 import numpy as np
-
-from sklearn.cluster import KMeans
-from sklearn import svm
 
 from sklearn.svm import LinearSVC
 from sklearn.pipeline import make_pipeline
