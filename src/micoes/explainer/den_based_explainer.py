@@ -1,8 +1,4 @@
 import numpy as np
-
-from sklearn.svm import LinearSVC
-from sklearn.pipeline import make_pipeline
-
 from .common import run_svc
 from .common import map_feature_scores
 from .common import gaussian_synthetic_sampling
