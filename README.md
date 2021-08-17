@@ -4,6 +4,8 @@ Outlier or anomaly detection has been used in many applications including data s
 
 In this project , we present a micro-clusters-based outlier explanation framework for data streams (MICOES). It finds outlying attributes for outliers detected by an arbitrary anomaly detection algorithm. Data streams bring extra challenges because they have an unbounded volume of data that keep coming such that the processing is limited to time and memory constraints. Therefore, for real-time processing, it is not possible to have multiple passes on data. MICOES addresses this nature of data streams by utilizing the statistical synopsis of the data maintained in the micro-clusters to find outlying attributes. 
 
+The MICOES paper is available in [the 1st Workshop on Anomaly and Novelty Detection, Explanation and Accommodation (ANDEA) in Conjunction with KDD 2021](https://sites.google.com/view/andea2021/accepted-papers)
+
 ### Package Installation - Development Mode
 
 `python3 setup.py develop`
