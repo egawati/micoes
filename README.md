@@ -7,7 +7,8 @@ In this project , we present a micro-clusters-based outlier explanation framewor
 The MICOES paper is available in [the 1st Workshop on Anomaly and Novelty Detection, Explanation and Accommodation (ANDEA) in Conjunction with KDD 2021](https://sites.google.com/view/andea2021/accepted-papers)
 
 ### Package Installation - Development Mode
-
+- Download and extract the the ZIP file
+- On the terminal cd to extracted micoes folder and run the following command:
 `python3 setup.py develop`
 
 ### Citation
