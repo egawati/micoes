@@ -8,7 +8,7 @@ The MICOES paper is available in [the 1st Workshop on Anomaly and Novelty Detect
 
 ### Package Installation - Development Mode
 - Download and extract the the ZIP file
-- On the terminal cd to extracted micoes folder and run the command: `python3 setup.py develop`
+- On the terminal cd to the extracted micoes folder and run the command: `python3 setup.py develop`
 
 ### Citation
 ```
