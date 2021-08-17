@@ -9,12 +9,12 @@ In this project , we present a micro-clusters-based outlier explanation framewor
 `python3 setup.py develop`
 
 ### Citation
-`
+```
 @misc{MICOES2021,
-title= {Micro-clusters-based Outlier Explanations for Data Streams},\
-author = {Egawati Panjei and Le Gruenwald and Eleazar Leal and Christopher Nguyen},\
-year = {2021},\
-booktitle= {The 1st Workshop on Anomaly and Novelty Detection, Explanation and Accommodation (ANDEA) in Conjunction with KDD 2021},\
+title= {Micro-clusters-based Outlier Explanations for Data Streams},
+author = {Egawati Panjei and Le Gruenwald and Eleazar Leal and Christopher Nguyen},
+year = {2021},
+booktitle= {The 1st Workshop on Anomaly and Novelty Detection, Explanation and Accommodation (ANDEA) in Conjunction with KDD 2021},
 URL= {https://sites.google.com/view/andea2021/accepted-papers},
 }
-`
+```
