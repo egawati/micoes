@@ -46,7 +46,7 @@ def gaussian_synthetic_sampling(mc_centers, outlier, round_flag=False):
     n = mc_centers.shape[0]
     if n < mc_centers.shape[1]:
         n = mc_centers.shape[1]
-    gaussian_data = np.random.multivariate_normal(outlier, covariance, mc_centers.shape[0])
+    gaussian_data = np.random.multivariate_normal(outlier, covariance, n)
     if round_flag:
         gaussian_data = np.round(gaussian_data)
     outlier_class = np.vstack((gaussian_data, outlier))
